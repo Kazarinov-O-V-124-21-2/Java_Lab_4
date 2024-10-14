@@ -1,0 +1,261 @@
+{
+  "name": "My University",
+  "head": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "middleName": "Smith",
+    "sex": "MALE"
+  },
+  "faculties": [
+    {
+      "name": "Engineering",
+      "head": {
+        "firstName": "Alice",
+        "lastName": "Johnson",
+        "middleName": "Kate",
+        "sex": "FEMALE"
+      },
+      "departments": [
+        {
+          "name": "Department 1",
+          "head": {
+            "firstName": "DeptHead1",
+            "lastName": "LastName1",
+            "middleName": "Patronymic1",
+            "sex": "MALE"
+          },
+          "groups": [
+            {
+              "name": "Group 1",
+              "head": {
+                "firstName": "GroupHead1",
+                "lastName": "LastName1",
+                "middleName": "Patronymic1",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Student1",
+                  "lastName": "LastName1",
+                  "middleName": "Patronymic1",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Student2",
+                  "lastName": "LastName2",
+                  "middleName": "Patronymic2",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "name": "Group 2",
+              "head": {
+                "firstName": "GroupHead2",
+                "lastName": "LastName2",
+                "middleName": "Patronymic2",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Student1",
+                  "lastName": "LastName1",
+                  "middleName": "Patronymic1",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Student2",
+                  "lastName": "LastName2",
+                  "middleName": "Patronymic2",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Department 2",
+          "head": {
+            "firstName": "DeptHead2",
+            "lastName": "LastName2",
+            "middleName": "Patronymic2",
+            "sex": "MALE"
+          },
+          "groups": [
+            {
+              "name": "Group 1",
+              "head": {
+                "firstName": "GroupHead1",
+                "lastName": "LastName1",
+                "middleName": "Patronymic1",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Student1",
+                  "lastName": "LastName1",
+                  "middleName": "Patronymic1",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Student2",
+                  "lastName": "LastName2",
+                  "middleName": "Patronymic2",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "name": "Group 2",
+              "head": {
+                "firstName": "GroupHead2",
+                "lastName": "LastName2",
+                "middleName": "Patronymic2",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Student1",
+                  "lastName": "LastName1",
+                  "middleName": "Patronymic1",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Student2",
+                  "lastName": "LastName2",
+                  "middleName": "Patronymic2",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "head": {
+        "firstName": "Bob",
+        "lastName": "Williams",
+        "middleName": "James",
+        "sex": "MALE"
+      },
+      "departments": [
+        {
+          "name": "Department 1",
+          "head": {
+            "firstName": "DeptHead1",
+            "lastName": "LastName1",
+            "middleName": "Patronymic1",
+            "sex": "MALE"
+          },
+          "groups": [
+            {
+              "name": "Group 1",
+              "head": {
+                "firstName": "GroupHead1",
+                "lastName": "LastName1",
+                "middleName": "Patronymic1",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Student1",
+                  "lastName": "LastName1",
+                  "middleName": "Patronymic1",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Student2",
+                  "lastName": "LastName2",
+                  "middleName": "Patronymic2",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "name": "Group 2",
+              "head": {
+                "firstName": "GroupHead2",
+                "lastName": "LastName2",
+                "middleName": "Patronymic2",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Student1",
+                  "lastName": "LastName1",
+                  "middleName": "Patronymic1",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Student2",
+                  "lastName": "LastName2",
+                  "middleName": "Patronymic2",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Department 2",
+          "head": {
+            "firstName": "DeptHead2",
+            "lastName": "LastName2",
+            "middleName": "Patronymic2",
+            "sex": "MALE"
+          },
+          "groups": [
+            {
+              "name": "Group 1",
+              "head": {
+                "firstName": "GroupHead1",
+                "lastName": "LastName1",
+                "middleName": "Patronymic1",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Student1",
+                  "lastName": "LastName1",
+                  "middleName": "Patronymic1",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Student2",
+                  "lastName": "LastName2",
+                  "middleName": "Patronymic2",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "name": "Group 2",
+              "head": {
+                "firstName": "GroupHead2",
+                "lastName": "LastName2",
+                "middleName": "Patronymic2",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Student1",
+                  "lastName": "LastName1",
+                  "middleName": "Patronymic1",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Student2",
+                  "lastName": "LastName2",
+                  "middleName": "Patronymic2",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
